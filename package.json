@@ -1,0 +1,15 @@
+{
+  "name": "meanapp",
+  "version": "1.0.0",
+  "description": "README.md https://expressjs.com/en/starter/installing.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {}
+}
